@@ -1,2 +1,2 @@
-# miso_dyson_project
-다이슨 프로젝트
+# miso_project
+미소 프로젝트
